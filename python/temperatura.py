@@ -8,7 +8,7 @@ Ti = 10
 Tf = 30
 dT = (Tf-Ti)/10
 
-print("i" "T" "Tk")
+print("i TC TK")
 for i in range(0,9):
 	T = Ti + i*dT
 	Tk = CtoK(T)
